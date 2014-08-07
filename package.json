@@ -1,0 +1,32 @@
+{
+  "name": "generator-gulp-init",
+  "version": "0.1.2",
+  "description": "Gulp.js generator for Yeoman.",
+  "main": "app/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Yip <i@chrisyip.im>",
+  "license": "WTFPL",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chrisyip/generator-gulp-init.git"
+  },
+  "keywords": [
+    "gulp",
+    "yeoman",
+    "generator"
+  ],
+  "bugs": {
+    "url": "https://github.com/chrisyip/generator-gulp-init／issues"
+  },
+  "homepage": "https://github.com/chrisyip/generator-gulp-init",
+  "dependencies": {
+    "async": "^0.9.0",
+    "coffee-script": "^1.7.1",
+    "gulp": "^3.8.7",
+    "gulp-coffeelint": "^0.3.3",
+    "yeoman-generator": "~0.17.2",
+    "yosay": "~0.3.0"
+  }
+}
