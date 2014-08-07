@@ -17,3 +17,9 @@ After install, run:
 ```
 yo gulp-init
 ```
+
+[npm-url]: https://npmjs.org/package/generator-gulp-init
+[npm-image]: https://badge.fury.io/js/generator-gulp-init.svg
+[daviddm-url]: https://david-dm.org/chrisyip/generator-gulp-init.svg?theme=shields.io
+[daviddm-image]: https://david-dm.org/chrisyip/generator-gulp-init
+
