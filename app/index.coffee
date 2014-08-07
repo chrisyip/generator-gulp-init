@@ -2,9 +2,12 @@ path = require 'path'
 yeoman = require 'yeoman-generator'
 yosay = require 'yosay'
 async = require 'async'
+_s = require 'underscore.string'
 
 GulpfileGenerator = yeoman.generators.Base.extend(
   init: ->
+    @_.mixin require('underscore.string').exports()
+
     @on 'end', ->
       context = this
 
