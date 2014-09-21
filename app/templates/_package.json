@@ -9,14 +9,14 @@
   "author": "<%= author %>",
   "license": "",
   "dependencies": {
-    "gulp": "~3.8.7",
-    "gulp-util": "~3.0.0",
+    "gulp": "~3.8.8",
+    "gulp-util": "~3.0.1",
     <% if (coffee) { %>
-    "gulp-coffeelint": "~0.3.3",
-    "coffee-script": "~1.7.1",
+    "gulp-coffeelint": "~0.4.0",
+    "coffee-script": "~1.8.0",
     <% } else { %>
     "gulp-jshint": "~1.8.4",
-    "jshint-stylish": "~0.4.0",
+    "jshint-stylish": "~1.0.0",
     <% } %>
     "lodash": "*"
   }
