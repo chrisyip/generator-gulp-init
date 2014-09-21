@@ -23,11 +23,11 @@
   "homepage": "https://github.com/chrisyip/generator-gulp-init",
   "dependencies": {
     "async": "^0.9.0",
-    "coffee-script": "^1.7.1",
-    "gulp": "^3.8.7",
-    "gulp-coffeelint": "^0.3.3",
+    "coffee-script": "^1.8.0",
+    "gulp": "^3.8.8",
+    "gulp-coffeelint": "^0.4.0",
     "underscore.string": "^2.3.3",
     "yeoman-generator": "~0.17.2",
-    "yosay": "~0.3.0"
+    "yosay": "~1.0.0"
   }
 }
