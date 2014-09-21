@@ -1,7 +1,6 @@
 {
   "curly": true,
   "eqeqeq": true,
-  "eqnull": true,
   "forin": true,
   "indent": 2,
   "latedef": "nofunc",
@@ -12,7 +11,6 @@
   "quotmark": "single",
   "undef": true,
   "unused": true,
-  "trailing": true,
 
   "asi": true,
   "eqnull": true,
